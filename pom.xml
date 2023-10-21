@@ -2344,6 +2344,7 @@
                     <ignoredResourcePattern>jetty-logging.properties</ignoredResourcePattern>
                     <ignoredResourcePattern>features.xml</ignoredResourcePattern>
                     <ignoredResourcePattern>plugin.properties</ignoredResourcePattern>
+                    <ignoredResourcePattern>plugin.xml</ignoredResourcePattern>
                   </ignoredResourcePatterns>
                   <ignoredClassPatterns>
                     <!-- some classes with different content are in osgi-core AND osgi tracker -->
